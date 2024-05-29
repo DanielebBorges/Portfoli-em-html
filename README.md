@@ -11,7 +11,7 @@ styles.css: Este arquivo CSS contém todas as regras de estilo para a aparência
 
 scripts.js: O JavaScript neste arquivo é responsável por adicionar funcionalidades interativas, como navegação suave e validação de formulário.
 
-img/: Esta pasta contém todas as imagens utilizadas no portfólio.
+images/: Esta pasta contém todas as imagens utilizadas no portfólio.
 
 ### Contatos
 
