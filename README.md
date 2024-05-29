@@ -1,5 +1,6 @@
 ## Olá, Bem vindo!
 ### O que você vai encontrar aqui?
+
 Este é um portfólio desenvolvido utilizando HTML, CSS e JavaScript, projetado para exibir informações sobre minhas habilidades, projetos e fornecer um meio de contato.     
 Um trabalho para a diciplina de DESIGN E UX.     
 Abaixo, você encontrará uma visão geral de como navegar por este código.
